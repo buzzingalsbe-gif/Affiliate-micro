@@ -1,0 +1,20 @@
+[
+  {
+    "name": "DigitalOcean",
+    "link": "https://www.digitalocean.com/?refcode=YOURCODE",
+    "payout": 25,
+    "last_used": ""
+  },
+  {
+    "name": "Namecheap",
+    "link": "https://namecheap.pxf.io/YOURCODE",
+    "payout": 30,
+    "last_used": ""
+  },
+  {
+    "name": "AppSumo",
+    "link": "https://appsumo.8odi.net/YOURCODE",
+    "payout": 15,
+    "last_used": ""
+  }
+]
