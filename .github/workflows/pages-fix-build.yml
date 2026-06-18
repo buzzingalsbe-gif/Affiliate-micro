@@ -1,5 +1,5 @@
 name: pages-fix-build
-
+permissions: contents: write pages: rest of workflow unchanged
 on:
   push:
     branches: [ main ]
