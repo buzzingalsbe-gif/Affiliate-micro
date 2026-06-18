@@ -39,7 +39,6 @@ Affiliate-micro v0.1.0 — a plug-and-play autonomous affiliate micro-bot for sm
 
 ## Contributors
 - @buzzingalsbe-gif (maintainer)
-- @SawyerHood (gitclaw)
 
 ## Reporting bugs & contributing
 - File bugs and feature requests at: https://github.com/buzzingalsbe-gif/Affiliate-micro/issues
