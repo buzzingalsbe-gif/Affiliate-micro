@@ -1,0 +1,11 @@
+title: Affiliate-micro
+description: Autonomous affiliate bot for publishing review posts
+baseurl: ""
+url: ""
+markdown: kramdown
+exclude:
+  - .git
+  - .github
+  - vendor
+  - Gemfile
+  - Gemfile.lock
